@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Github Stats
-(https://github-readme-stats.vercel.app/api?username=GITZMBE&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=GITZMBE&show_icons=true&theme=radical)
 
 <!--
 **GITZMBE/GITZMBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
