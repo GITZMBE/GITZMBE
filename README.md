@@ -21,3 +21,4 @@ I’m always open to collaborating, brainstorming, and turning ideas into impact
 
 ### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=GITZMBE&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GITZMBE)
